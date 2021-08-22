@@ -1,1 +1,3 @@
 # hello-ai-and-datascience-world
+# Hey all AI and Datascience enthusiasts out there.....
+# Lets collaborate and make this world a better place
